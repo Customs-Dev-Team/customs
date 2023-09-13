@@ -1,0 +1,17 @@
+{
+  "name": "@customsdev/customs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/CLI/bin/index.js",
+  "bin": {
+    "customs": "./CLI/bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
